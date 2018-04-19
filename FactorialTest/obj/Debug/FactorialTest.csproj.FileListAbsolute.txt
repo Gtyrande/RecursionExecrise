@@ -1,0 +1,14 @@
+F:\dotNet\20180104\FooTest\FactorialTest\bin\Debug\FactorialTest.exe.config
+F:\dotNet\20180104\FooTest\FactorialTest\bin\Debug\FactorialTest.exe
+F:\dotNet\20180104\FooTest\FactorialTest\bin\Debug\FactorialTest.pdb
+F:\dotNet\20180104\FooTest\FactorialTest\obj\Debug\FactorialTest.csprojResolveAssemblyReference.cache
+F:\dotNet\20180104\FooTest\FactorialTest\obj\Debug\FactorialTest.csproj.CoreCompileInputs.cache
+F:\dotNet\20180104\FooTest\FactorialTest\obj\Debug\FactorialTest.exe
+F:\dotNet\20180104\FooTest\FactorialTest\obj\Debug\FactorialTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\bin\Debug\FactorialTest.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\bin\Debug\FactorialTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\bin\Debug\FactorialTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\obj\Debug\FactorialTest.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\obj\Debug\FactorialTest.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\obj\Debug\FactorialTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FactorialTest\obj\Debug\FactorialTest.pdb

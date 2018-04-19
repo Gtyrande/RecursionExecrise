@@ -1,0 +1,13 @@
+F:\dotNet\20180104\FooTest\TestOverride\bin\Debug\TestOverride.exe.config
+F:\dotNet\20180104\FooTest\TestOverride\bin\Debug\TestOverride.exe
+F:\dotNet\20180104\FooTest\TestOverride\bin\Debug\TestOverride.pdb
+F:\dotNet\20180104\FooTest\TestOverride\obj\Debug\TestOverride.csprojResolveAssemblyReference.cache
+F:\dotNet\20180104\FooTest\TestOverride\obj\Debug\TestOverride.csproj.CoreCompileInputs.cache
+F:\dotNet\20180104\FooTest\TestOverride\obj\Debug\TestOverride.exe
+F:\dotNet\20180104\FooTest\TestOverride\obj\Debug\TestOverride.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestOverride\bin\Debug\TestOverride.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestOverride\bin\Debug\TestOverride.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestOverride\bin\Debug\TestOverride.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestOverride\obj\Debug\TestOverride.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestOverride\obj\Debug\TestOverride.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestOverride\obj\Debug\TestOverride.pdb

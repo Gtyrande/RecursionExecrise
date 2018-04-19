@@ -1,0 +1,7 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\bin\Debug\PascalTriangleTest.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\bin\Debug\PascalTriangleTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\bin\Debug\PascalTriangleTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\obj\Debug\PascalTriangleTest.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\obj\Debug\PascalTriangleTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\obj\Debug\PascalTriangleTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\PascalTriangleTest\obj\Debug\PascalTriangleTest.csprojResolveAssemblyReference.cache

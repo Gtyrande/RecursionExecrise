@@ -1,0 +1,14 @@
+F:\dotNet\20180104\FooTest\FooTest\bin\Debug\FooTest.exe.config
+F:\dotNet\20180104\FooTest\FooTest\bin\Debug\FooTest.exe
+F:\dotNet\20180104\FooTest\FooTest\bin\Debug\FooTest.pdb
+F:\dotNet\20180104\FooTest\FooTest\obj\Debug\FooTest.csprojResolveAssemblyReference.cache
+F:\dotNet\20180104\FooTest\FooTest\obj\Debug\FooTest.csproj.CoreCompileInputs.cache
+F:\dotNet\20180104\FooTest\FooTest\obj\Debug\FooTest.exe
+F:\dotNet\20180104\FooTest\FooTest\obj\Debug\FooTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\bin\Debug\FooTest.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\bin\Debug\FooTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\bin\Debug\FooTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\obj\Debug\FooTest.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\obj\Debug\FooTest.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\obj\Debug\FooTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\FooTest\obj\Debug\FooTest.pdb

@@ -1,0 +1,14 @@
+F:\dotNet\20180104\FooTest\ExpressionTest\bin\Debug\ExpressionTest.exe.config
+F:\dotNet\20180104\FooTest\ExpressionTest\bin\Debug\ExpressionTest.exe
+F:\dotNet\20180104\FooTest\ExpressionTest\bin\Debug\ExpressionTest.pdb
+F:\dotNet\20180104\FooTest\ExpressionTest\obj\Debug\ExpressionTest.csprojResolveAssemblyReference.cache
+F:\dotNet\20180104\FooTest\ExpressionTest\obj\Debug\ExpressionTest.csproj.CoreCompileInputs.cache
+F:\dotNet\20180104\FooTest\ExpressionTest\obj\Debug\ExpressionTest.exe
+F:\dotNet\20180104\FooTest\ExpressionTest\obj\Debug\ExpressionTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\bin\Debug\ExpressionTest.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\bin\Debug\ExpressionTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\bin\Debug\ExpressionTest.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\obj\Debug\ExpressionTest.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\obj\Debug\ExpressionTest.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\obj\Debug\ExpressionTest.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\ExpressionTest\obj\Debug\ExpressionTest.pdb

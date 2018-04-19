@@ -1,0 +1,13 @@
+F:\dotNet\20180104\FooTest\TestAddSub\bin\Debug\TestAddSub.exe.config
+F:\dotNet\20180104\FooTest\TestAddSub\bin\Debug\TestAddSub.exe
+F:\dotNet\20180104\FooTest\TestAddSub\bin\Debug\TestAddSub.pdb
+F:\dotNet\20180104\FooTest\TestAddSub\obj\Debug\TestAddSub.csproj.CoreCompileInputs.cache
+F:\dotNet\20180104\FooTest\TestAddSub\obj\Debug\TestAddSub.exe
+F:\dotNet\20180104\FooTest\TestAddSub\obj\Debug\TestAddSub.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\bin\Debug\TestAddSub.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\bin\Debug\TestAddSub.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\bin\Debug\TestAddSub.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\obj\Debug\TestAddSub.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\obj\Debug\TestAddSub.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\obj\Debug\TestAddSub.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\TestAddSub\obj\Debug\TestAddSub.pdb

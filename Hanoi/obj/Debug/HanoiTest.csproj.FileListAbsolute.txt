@@ -1,0 +1,6 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\Hanoi\bin\Debug\Hanoi.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\Hanoi\bin\Debug\Hanoi.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\Hanoi\bin\Debug\Hanoi.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\Hanoi\obj\Debug\HanoiTest.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\Hanoi\obj\Debug\Hanoi.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\FooTest\Hanoi\obj\Debug\Hanoi.pdb
